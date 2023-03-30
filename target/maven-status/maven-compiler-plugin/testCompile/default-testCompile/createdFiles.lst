@@ -1,0 +1,5 @@
+com\songplatform\song_login_student\SongLoginStudentApplicationTests.class
+com\songplatform\song_login_student\service\SongPlusServiceTest.class
+com\songplatform\song_login_student\service\TeacherServiceTest.class
+com\songplatform\song_login_student\service\SongServiceTest.class
+com\songplatform\song_login_student\service\StudentServiceTest.class
